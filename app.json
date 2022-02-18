@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "@config-plugins/detox"
+  ],
+  "android": {
+    "package": "com.node.io.apps.rndetox"
+  },
+  "ios": {
+    "bundleIdentifier": "com.node.io.apps.rndetox"
+  }
+}
