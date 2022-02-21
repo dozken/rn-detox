@@ -30,6 +30,7 @@ run:
 
 we don't actually need build scripts in detox.config.js, `expo run android|ios` command is doing build for us
 
+run test `test:ios` `test:android-debug`
 ### Links
 https://github.com/expo/config-plugins/tree/master/packages/detox  
 https://github.com/wix/Detox/blob/master/examples/demo-react-native/detox.config.js
