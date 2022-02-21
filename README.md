@@ -19,6 +19,8 @@ Example of React Native build on Expo and tested with Detox
 ## 🚀 How to use
 `yarn install`
 
+`expo prebuild`
+
 Install iOS packages: `npx pod-install`  
 
 run:  
